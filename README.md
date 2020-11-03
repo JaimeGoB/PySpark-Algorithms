@@ -1,6 +1,6 @@
 # PySpark-Algorithms
 
-# Problem 1
+# Problem 2
 ## Given: A sample of 500 integers from uniform distribution. Integers should go from 0 to 50. 
 ## Task: Filter and print the values that repeat more than 10 times on RDD.
 
@@ -23,7 +23,7 @@ The output of the Filter will give the desired result.
 (17, 10), (42, 10), (26, 10), (3, 10), (36, 10), (44, 10), (30, 10), (6, 10), (49, 11), (12, 11), (37, 11), (38, 11), (47, 11), (48, 12), (0, 12), (40, 12), (41, 12), (11, 12), (13, 12), (16, 13), (50, 13), (45, 13), (8, 14), (34, 14), (29, 14), (4, 15), (35, 18)
 
 
-# Problem 2
+# Problem 3
 ## Given:As input file "THE HISTORY OF THE UNITED STATES BY CHARLES A. BEARD" 
 ## Task: Print the top 30 most frequent words and their corresponding frequencies
 
